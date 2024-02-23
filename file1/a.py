@@ -1,3 +1,3 @@
 
-class Fruit:
+class Car:
     pass
